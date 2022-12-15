@@ -1,5 +1,14 @@
-thead,
-tfoot {
+img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+thead,tfoot {
     background-color: #333;
     color: #fff;
+}
+
+table, td{
+  border-style: solid;
 }
