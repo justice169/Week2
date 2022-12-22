@@ -6,8 +6,8 @@
   background-color: red;
 }
 
-.circular{
-    border-radius: 50%;
+.circular {
+  border-radius: 50%;
 }
 
 h1 {
@@ -17,4 +17,9 @@ h1 {
 
 #heading {
   color: blue;
+}
+
+img:hover {
+  background-color: gold;
+  cursor: pointer;
 }
