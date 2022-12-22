@@ -1,0 +1,31 @@
+body {
+  background-color: #90caf9;
+}
+
+h1,
+h3 {
+  color: #42855b;
+}
+
+img {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 30%;
+}
+/* table,
+td {
+  border-style: solid;
+} */
