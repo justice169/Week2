@@ -19,7 +19,12 @@ h1 {
   color: blue;
 }
 
+#heading:hover{
+    background-color: green;
+}
+
 img:hover {
   background-color: gold;
   cursor: pointer;
 }
+
